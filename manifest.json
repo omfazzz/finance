@@ -1,0 +1,16 @@
+{
+  "name": "Catatan Uang",
+  "short_name": "Catatan Uang",
+  "description": "Catat pemasukan, pengeluaran, dan budget. Jalan offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f5f6",
+  "theme_color": "#0f766e",
+  "lang": "id",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
